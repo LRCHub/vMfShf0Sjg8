@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ラヴなのっ♡",
+  "base_artist": "超ときめき♡宣伝部",
+  "createdAt": "2026-02-06T13:31:36.350975Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラヴなのっ♡",
+      "artist": "超ときめき♡宣伝部",
+      "has_synced": true,
+      "path": "select/01_ラヴなのっ♡_超ときめき♡宣伝部.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラヴなのっ♡",
+      "artist": "Cho Tokimeki Sendenbu",
+      "has_synced": false,
+      "path": "select/02_ラヴなのっ♡_Cho_Tokimeki_Sendenbu.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラヴなのっ♡",
+      "artist": "超ときめき♡宣伝部",
+      "has_synced": false,
+      "path": "select/pl_01_ラヴなのっ♡_超ときめき♡宣伝部.txt"
+    }
+  ]
+}
